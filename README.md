@@ -13,35 +13,35 @@ This is a **mini Employee Management System (EMS)** to be built using **Core Jav
 
 ---
 
-## 👥 Teams
+## 👥 Teams (Updated)
 
 ### Team 1
-- Bala, Sandesh
 - Reddy, Dhoddi Mallikarjuna
-- VP, Rahees Ahammed
-- S, Mohith
-- Darshan, B S
+- Govardhan, Majjiga
+- B M, Poorvika
+- Prasad M T, Saketh
+- Kottam, Gnaneswar
 
 ### Team 2
-- S N, Akul
-- B M, Poorvika
-- Dama, Pavan
-- Govardhan, Majjiga
-- Vamsikrishna, Valluri
-
-### Team 3
-- Kottam, Gnaneswar
-- Prasad M T, Saketh
-- Raju, Vishnu
-- C D, Nisha
-- PERAM, Tarun Kumar Reddy
-
-### Team 4
-- Mogaveera, Nayan
 - SAIBHARATH, K
 - Kumar, MuppalaMuppala Anil
-- Krishnamanikanta
+- Vamsikrishna, Valluri
+- PERAM, Tarun Kumar Reddy
+- Bala, Sandesh
+
+### Team 3
+- Darshan, B S
+- VP, Rahees Ahammed
+- S N, Akul
+- Mogaveera, Nayan
 - Saji, Amal
+
+### Team 4
+- S, Mohith
+- Dama, Pavan
+- Raju, Vishnu
+- Krishnamanikanta
+- C D, Nisha
 
 ---
 
